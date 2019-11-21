@@ -1,5 +1,7 @@
 # React Navigation Ex Demo ⚛️
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/artyorsh/react-navigation-ex-demo.svg)](https://greenkeeper.io/)
+
 React Native application that demonstrates usage of [React Navigation 5][link:react-navigation-ex] with [UI Kitten][link:ui-kitten]. 
 
 Maintained until stable React Navigation 5 is released.
